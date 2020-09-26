@@ -2,7 +2,7 @@ import sys
 import os
 import colorama 
 from colorama import Fore, Style
-Print(Fore.BLUE + ".")
+print(Fore.BLUE + ".")
 os.system('clear')
 
 character_name = "Alonso A"
