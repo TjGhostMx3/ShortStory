@@ -1,2 +1,2 @@
 # ShortStory
-my first py script
+My First Script and Repository. 
