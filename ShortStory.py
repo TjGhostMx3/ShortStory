@@ -1,4 +1,7 @@
-Limpar = "clear"
+import sys
+import os
+os.system('clear')
+
 character_name = "Alonso A"
 character_age = "16"
 character_date = "9.24.20"
