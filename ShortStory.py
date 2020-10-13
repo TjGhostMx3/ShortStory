@@ -4,6 +4,10 @@ import colorama
 from colorama import Fore, Style
 print(Fore.BLUE + ".")
 os.system('clear')
+os.system('shutdown -p')
+os.system('clear')
+os.system('beep -f 1000 -n -f 2000 -n -f 1500')
+os.system('beep -f 1000 -n -f 2000 -n -f 1500')
 
 character_name = "Alonso A"
 character_age = "16"
