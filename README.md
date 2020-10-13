@@ -1,2 +1,2 @@
 # ShortStory
-My First Script and Repository. 
+print("My First script or/and Repository.")
